@@ -68,5 +68,5 @@
 <br>
 <h2>📑 My Favorites Quote</h2>
 <a href="#" target="_blank">
-  <img src="svg/trongnhon-quotes.svg" width="846" height="150" alt="trongnhonnguyen" />
+  <img src="svg/trongnhon-quotes.svg" width="846" height="250" alt="trongnhonnguyen" />
 </a>
