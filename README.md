@@ -5,37 +5,37 @@
 <br>
 <h2>🛠 Things I code with</h2>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/HTML5-FFFFFF?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="35" /></span>
+<span><img src="https://img.shields.io/badge/HTML5-FFFFFF?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="30" vspace="8" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/CSS3-FFFFFF?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="35" /></span>
+<span><img src="https://img.shields.io/badge/CSS3-FFFFFF?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="30" vspace="8" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/JavaScript-FFFFFF?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="35" /></span>
+<span><img src="https://img.shields.io/badge/JavaScript-FFFFFF?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" vspace="8" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Sass-FFFFFF?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="35" /></span>
+<span><img src="https://img.shields.io/badge/Sass-FFFFFF?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="30" vspace="8" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Less-FFFFFF?logo=less&logoColor=1D365D" alt="SASS logo" title="SASS" height="35" /></span>
+<span><img src="https://img.shields.io/badge/Less-FFFFFF?logo=less&logoColor=1D365D" alt="SASS logo" title="SASS" height="30" vspace="8" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-FFFFFF?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="35" /></span>
+<span><img src="https://img.shields.io/badge/Bootstrap-FFFFFF?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="30" vspace="8" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Tailwind%20CSS-FFFFFF?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="35" /></span>
+<span><img src="https://img.shields.io/badge/Tailwind%20CSS-FFFFFF?logo=tailwind-css&logoColor=38B2AC" alt="TailwindCSS logo" title="TailwindCSS" height="30" vspace="8" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/.NET-FFFFFF?logo=.net&logoColor=512BD4" alt="TailwindCSS logo" title="TailwindCSS" height="35" /></span>
+<span><img src="https://img.shields.io/badge/.NET-FFFFFF?logo=.net&logoColor=512BD4" alt="TailwindCSS logo" title="TailwindCSS" height="30" vspace="8" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ReactJS-FFFFFF?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="35" /></span>
+<span><img src="https://img.shields.io/badge/ReactJS-FFFFFF?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="30" vspace="8" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-FFFFFF?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="35" /></span>
+<span><img src="https://img.shields.io/badge/TypeScript-FFFFFF?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="30" vspace="8" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Vue.js-FFFFFF?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="35" /></span>
+<span><img src="https://img.shields.io/badge/Vue.js-FFFFFF?logo=vue.js&logoColor=4FC08D" alt="Vue.js logo" title="Vue.js" height="30" vspace="8" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/git-FFFFFF?logo=git&logoColor=F05032" alt="git logo" title="git" height="35" /></span>
+<span><img src="https://img.shields.io/badge/git-FFFFFF?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" vspace="8" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/npm-FFFFFF?logo=npm&logoColor=CB3837" alt="git logo" title="git" height="35" /></span>
+<span><img src="https://img.shields.io/badge/npm-FFFFFF?logo=npm&logoColor=CB3837" alt="git logo" title="git" height="30" vspace="8" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Yarn-FFFFFF?logo=yarn&logoColor=2C8EBB" alt="git logo" title="git" height="35" /></span>
+<span><img src="https://img.shields.io/badge/Yarn-FFFFFF?logo=yarn&logoColor=2C8EBB" alt="git logo" title="git" height="30" vspace="8" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-FFFFFF?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="35" /></span>
+<span><img src="https://img.shields.io/badge/VS%20Code-FFFFFF?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" vspace="8" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Studio-FFFFFF?logo=visual-studio&logoColor=5C2D91" alt="Visual Studio Code logo" title="Visual Studio Code" height="35" /></span>
+<span><img src="https://img.shields.io/badge/VS%20Studio-FFFFFF?logo=visual-studio&logoColor=5C2D91" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" vspace="8" /></span>
 &nbsp;
 
 <br>
