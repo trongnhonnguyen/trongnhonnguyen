@@ -60,18 +60,18 @@
 <h2>🔥 GitHub Stats</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align=center>
-  <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="trongnhonnguyen">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trongnhonnguyen&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="#" title="trongnhonnguyen">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trongnhonnguyen&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
 <br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2>📑 My Favorites Quote</h2>
 <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="svg/trongnhon-quotes.svg" width="846" height="150" alt="trongnhonnguyen" />
 </a>
-<h1 align="center">⚡️<i>Stay awesome!</i>⚡️</h1>
+<h1>⚡️<i>Stay awesome!</i></h1>
 <img src="svg/bottom.svg" width="1200" alt="trongnhonnguyen-official" />
