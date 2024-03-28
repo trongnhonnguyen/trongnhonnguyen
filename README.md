@@ -39,7 +39,25 @@
 &nbsp;
 
 <br>
-<h2>🔥 GitHub Stats 🔥</h2>
+<h2>👉🏼 Where to find me</h2>
+<!-- https://icons8.com -->
+<div>
+  <a href="https://www.facebook.com/trongnhon.nguyen.18" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trongnhonnguyen-facebook" />
+  </a>
+  <a href="www.linkedin.com/in/nguyen-trong-nhon" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trongnhonnguyen-linkedin" />
+  </a>
+  <a href="https://www.instagram.com/nguyentrongnhon1995" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trongnhonnguyen-instagram" />
+  </a>
+  <a href="mailto:nguyentrongnhon1995@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trongnhonnguyen-email" />
+  </a>
+</div>
+
+<br>
+<h2>🔥 GitHub Stats</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <div align=center>
   <a href="#" title="Trungquandev">
@@ -51,33 +69,7 @@
 </div>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br>
-<!-- https://icons8.com -->
-<div align="center">
-  <a href="https://trungquandev.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
-  </a>
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
-  </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
-  </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
-  </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
-  </a>
-</div>
-
-<br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
 </a>
