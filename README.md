@@ -73,5 +73,3 @@
 <a href="#" target="_blank">
   <img src="svg/trongnhon-quotes.svg" width="846" height="150" alt="trongnhonnguyen" />
 </a>
-<h1>⚡️<i>Stay awesome!</i></h1>
-<img src="svg/bottom.svg" width="1200" alt="trongnhonnguyen-official" />
